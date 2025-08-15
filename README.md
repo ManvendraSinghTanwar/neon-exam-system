@@ -203,18 +203,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Radix UI** for accessible component primitives
 - **Tailwind CSS** for the utility-first CSS framework
 
-## 📞 Support
-
-For support, email [your-email@example.com] or create an issue in this repository.
-
-## 🔄 Changelog
-
-### v1.0.0 (Current)
-- Initial release with core examination features
-- AI-powered question generation
-- Multi-role dashboard system
-- Cyberpunk neon design implementation
-- Real-time exam monitoring capabilities
 
 ---
 
