@@ -207,5 +207,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <strong>Built with ❤️ and ⚡ neon energy</strong>
+  <strong>Built with ❤️ by Manvendra Singh Tanwar and ⚡ neon energy</strong>
 </div>
