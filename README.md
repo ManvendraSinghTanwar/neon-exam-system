@@ -1,11 +1,23 @@
 # 🌟 Neon Exam System
 
+A futuristic AI-powered examination system with a stunning cyberpunk neon design. Built with Next.js, TypeScript, and powered by Meta's Llama 3.3 70B model via Together AI.
+
+## 📸 Screenshots
+
 <p align="center">
-  <img src="Screenshot 2025-08-15 233928.png" alt="Home Screen" width="300">
-  <img src="Screenshot 2025-08-15 233941.png" alt="Admin Dashboard" width="300">
+  <img src="Screenshot 2025-08-15 233928.png" alt="Home Screen" width="400">
+  <img src="Screenshot 2025-08-15 233941.png" alt="Admin Dashboard" width="400">
 </p>
 
-A futuristic AI-powered examination system with a stunning cyberpunk neon design. Built with Next.js, TypeScript, and powered by Meta's Llama 3.3 70B model via Together AI.
+<p align="center">
+  <img src="Screenshot 2025-08-15 233953.png" alt="Question Generation" width="400">
+  <img src="Screenshot 2025-08-15 234034.png" alt="Exam Interface" width="400">
+</p>
+
+<p align="center">
+  <img src="Screenshot 2025-08-15 234057.png" alt="Exam Taking Interface" width="400">
+  <img src="Screenshot 2025-08-15 234115.png" alt="Results Dashboard" width="400">
+</p>
 
 ## ✨ Features
 
@@ -14,11 +26,6 @@ A futuristic AI-powered examination system with a stunning cyberpunk neon design
 - **Faculty Dashboard**: Question creation and student monitoring
 - **Student Dashboard**: Take exams with real-time tracking
 - **Invigilator Dashboard**: Live proctoring and violation detection
-
-<p align="center">
-  <img src="Screenshot 2025-08-15 233953.png" alt="Question Generation" width="300">
-  <img src="Screenshot 2025-08-15 234034.png" alt="Exam Interface" width="300">
-</p>
 
 ### 🤖 AI-Powered Question Generation
 - **Smart Question Creation**: Generate questions using Meta Llama 3.3 70B model
@@ -32,11 +39,6 @@ A futuristic AI-powered examination system with a stunning cyberpunk neon design
 - **Dark Theme**: Eye-friendly dark mode with neon accents
 - **Responsive Design**: Works perfectly on all devices
 - **Interactive Elements**: Smooth hover effects and transitions
-
-<p align="center">
-  <img src="Screenshot 2025-08-15 234057.png" alt="Exam Taking Interface" width="300">
-  <img src="Screenshot 2025-08-15 234115.png" alt="Results Dashboard" width="300">
-</p>
 
 ### 🚀 Advanced Exam Features
 - **Real-time Exam Taking**: Live timer and auto-save
